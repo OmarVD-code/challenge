@@ -9,8 +9,8 @@
 
 ## Games
 
-- [Don't permute](https://github.com/preauth-io/challenge/tree/main/game-01)
-- [Spaghetti code](https://github.com/preauth-io/challenge/tree/main/game-02)
+- [Credit Report Generator](https://github.com/preauth-io/challenge/tree/main/game-01) - Exporta reportes crediticios a XLSX con Laravel, optimizando memoria y consultas.
+- [Gilded Rose Refactoring](https://github.com/preauth-io/challenge/tree/main/game-02) - Refactoriza código legacy y agrega nueva funcionalidad sin romper lo existente.
 
 ## Any doubts?
 Just open a [new issue](https://github.com/preauth-io/challenge/issues/new) and we'll get back to you asap.
